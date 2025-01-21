@@ -1,4 +1,4 @@
-![logo do git](https://www.sul21.com.br/wp-content/uploads/2016/05/20160510-bolsonaro.jpg)
+![logo do git](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-500x281.png)
 
 # Bem vindo ao curso git e github 
 
