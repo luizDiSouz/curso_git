@@ -1,5 +1,7 @@
 ![logo do git](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo-500x281.png)
 
+[Bem Vindo]()
+
 # Bem vindo ao curso git e github 
 
 Nesse curso você vai dominar todo **githubdo** _do zero ao profissional._
@@ -34,7 +36,7 @@ Nesse curso você vai dominar todo **githubdo** _do zero ao profissional._
 >
 >Segunda area destacada.
 
-**Comando para rodar o projeto:**
+### **Comando para rodar o projeto:**
 
 ```
 npm start
