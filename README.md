@@ -4,7 +4,7 @@
 
 Nesse curso você vai dominar todo **githubdo** _do zero ao profissional._
 
-**Ultimos updates **
+**Ultimos updates**
 - [x] Site responsivo
 - [ ] Login com facebook
 - [ ] Página sobre a empresa
