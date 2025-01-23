@@ -24,3 +24,8 @@ Nesse curso você vai dominar todo **githubdo** _do zero ao profissional._
 
 [youtube](https://youtube.com)
 
+>Este é um blockquote, usado para destacar alguma área.
+>
+>Segunda area destacada.
+
+
