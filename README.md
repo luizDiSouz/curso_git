@@ -4,6 +4,12 @@
 
 Nesse curso você vai dominar todo **githubdo** _do zero ao profissional._
 
+**Ultimos updates **
+- [x] Site responsivo
+- [ ] Login com facebook
+- [ ] Página sobre a empresa
+
+
 ## Módulos:
 
 1. Entendendo o que é **git**.
