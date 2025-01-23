@@ -64,3 +64,10 @@ function showName(name){
 
 ```
 
+Propriedade | Descrição 
+------------|------------
+Name | Para mostrar o nome do usuário.
+Size | Para mostrar o tamanho do campo
+Background | Para mostrar o fundo do campo.
+onPress | Para mostrar o evento de pressionar o botão.
+
